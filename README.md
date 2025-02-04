@@ -15,6 +15,7 @@ How to Run
 Clone the repository:
 
 git clone https://github.com/raoafaria/pythonProject.git
+
 cd pythonProject
 
 Run the script:
